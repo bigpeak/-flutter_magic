@@ -1,0 +1,30 @@
+name: flutter_magic
+description: A short description of Flutter Magic, matching the English description of Code A.
+version: 0.0.1
+homepage: https://github.com/bigpeak/flutter_magic
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  # Add your package dependencies here, for example:
+  # http: ^0.13.3
+
+dev_dependencies:
+  # Add your development dependencies here, for example:
+  # test: ^1.16.4
+
+flutter:
+  # Add any Flutter dependencies here, for example:
+  # assets:
+  #   - assets/images/
+  #   - assets/data/
+
+  # If your package is a plugin, add the following section:
+  # plugin:
+  #   platforms:
+  #     android:
+  #       package: com.example.flutter_magic
+  #       pluginClass: YourPluginClassName
+  #     ios:
+  #       pluginClass: YourPluginClassName
